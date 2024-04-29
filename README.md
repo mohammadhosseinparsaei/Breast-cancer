@@ -10,15 +10,14 @@ Wolberg,WIlliam. (1992). Breast Cancer Wisconsin (Original). UCI Machine Learnin
 
 ## Tools and Libraries Used
 - Google colab
-- ucimlrepo
-- numpy
-- pandas
-- scikit-learn
-- itertools
-- tensorflow
-- keras
-- seaborn
-- matplotlib
+- Python 3.10.12
+- ucimlrepo 0.0.6
+- numpy 1.25.2
+- pandas 2.0.3
+- scikit-learn 1.2.2
+- tensorflow 2.15.0
+- seaborn 0.13.1
+- matplotlib 3.7.1
 
 ## Model Performance - Confusion Matrix
 
