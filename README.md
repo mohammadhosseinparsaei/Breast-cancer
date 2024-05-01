@@ -1,4 +1,4 @@
-# Breast cancer detection with Deep Learning
+# Breast cancer detection with multilayer perceptron (MLP)
 
 This project focuses on using Perceptron Neural Network to classify benign lesion and breast cancer.
 
